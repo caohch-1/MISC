@@ -1,2 +1,1 @@
-# MISC
- 
+Reading notes and some miscellaneous records
